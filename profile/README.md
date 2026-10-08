@@ -9,5 +9,6 @@ Proyecto final de **Plataformas I (2026-2) - Universidad Icesi**. Es una platafo
 | [`platform`](https://github.com/kitsalud-movil-plats1/platform) | Base de kit01 (KVM, DNS, NTP, NUT, NetBird), Samba AD, backups, Ansible |
 | [`apps`](https://github.com/kitsalud-movil-plats1/apps) | DHIS2, consulta de formularios, biblioteca Kiwix, videos Jellyfin, formularios de prerregistro |
 | [`observability`](https://github.com/kitsalud-movil-plats1/observability) | Prometheus, Grafana, logs centralizados (rsyslog) |
+| [`workspace`](https://github.com/kitsalud-movil-plats1/workspace) | Espacio de trabajo: reglas para personas y agentes, plantillas y laboratorio virtual |
 
-Punto de partida: `docs/arquitectura/00-punto-de-partida.md`.
+Punto de partida: `docs/arquitectura/00-punto-de-partida.md`. Para trabajar: clonar `workspace` y seguir su `AGENTS.md`.
