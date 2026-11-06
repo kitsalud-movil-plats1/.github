@@ -11,4 +11,4 @@ Proyecto final de **Plataformas I (2026-2) - Universidad Icesi**. Es una platafo
 | [`observability`](https://github.com/kitsalud-movil-plats1/observability) | Prometheus, Grafana, logs centralizados (rsyslog) |
 | [`workspace`](https://github.com/kitsalud-movil-plats1/workspace) | Espacio de trabajo con reglas para personas y agentes, plantillas y laboratorio virtual |
 
-El punto de partida es `docs/arquitectura/00-punto-de-partida.md`. Para trabajar, se clona `workspace` y se sigue su `AGENTS.md`.
+El punto de partida es `docs/arquitectura/documento-arquitectura.md`. Para trabajar, se clona `workspace` y se sigue su `AGENTS.md`.

@@ -5,7 +5,7 @@
 ## Trazabilidad
 
 - Issue: #
-- Requisito / prueba / decisión: <!-- p. ej. R2, P10, D-12 -->
+- Requisito / prueba / decisión: <!-- p. ej. P10 -->
 
 ## Cómo se validó
 
